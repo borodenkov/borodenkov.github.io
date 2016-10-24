@@ -12,4 +12,5 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gmail](mailto:borodenkov.e.a@gmail.com)
+[twitter](https://twitter.com/e_borodenkov)
