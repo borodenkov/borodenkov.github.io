@@ -3,8 +3,8 @@ layout: post
 title: Конспект - "Путь к финансовой независимости от Бодо Шеффера"
 ---
 Ниже представлен мой конспект на конспект:
-часть 1 https://habrahabr.ru/company/liteorder/blog/284006/
-часть 2 https://habrahabr.ru/company/liteorder/blog/286292/
+[часть 1](https://habrahabr.ru/company/liteorder/blog/284006/)
+[часть 2](https://habrahabr.ru/company/liteorder/blog/286292/)
 
 Автор рассказывает, как работает личный успех и деньги вообще.
 
