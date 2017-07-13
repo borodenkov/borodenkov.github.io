@@ -1,6 +1,15 @@
 ---
 layout: post
 title: Конспект - "Путь к финансовой независимости от Бодо Шеффера"
+date: '2012-12-18 18:13:00'
+tags:
+- centos
+- kvm
+- libvirt
+- qemu
+- virtualizatsiia
+- avtomatizatsiia
+- ustanovka_sierviera
 ---
 Ниже представлен мой конспект на конспект:
 [часть 1](https://habrahabr.ru/company/liteorder/blog/284006/)
