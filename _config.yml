@@ -1,6 +1,6 @@
-name: Евгений
-description: Нагрузочное тестирование
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+name: borodenkov public blog
+description:
+avatar:
 footer-links:
   email: borodenkov.e.a@gmail.com
   github: borodenkov
@@ -21,6 +21,7 @@ kramdown:
     css_class: 'highlight'
 sass:
   style: :expanded # You might prefer to minify using :compressed
+theme: minima
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
