@@ -1,0 +1,22 @@
+#авоомвтизация тестирования
+Selenium
+Pytho
+Ddt
+
+#отчеты
+Allure
+
+#ci
+Jenkins
+Gitlab ci
+Travi ci
+
+Windows
+Ububtu
+
+Браузеры
+Распределений запуск
+Оповещение по почте
+
+Безотказность
+ Page objects
