@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Софт для разработки
 
-### More Information
+https://fishshell.com/ - мой дефолтный шелл, я использую тему bobthefish
+https://www.sublimetext.com/ - дефолтный текстовый редактор
+Material Theme
+Operator font
+Пакеты: Emmet, Hayaku, SidebarEnhancements, JS Snippets, GSAP Snippets
+Иконка приложения
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
 
 [gmail](mailto:borodenkov.e.a@gmail.com)
 [twitter](https://twitter.com/e_borodenkov)
