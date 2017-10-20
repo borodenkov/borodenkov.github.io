@@ -11,14 +11,10 @@ layout: default
         <div class="date">
             Written on {{ page.date | date: "%B %e, %Y" }}
         </div>
-
-        test test test
-
-        <!--<div class="entry">-->
-        <!--{{ post.excerpt }}-->
-        <!--</div>-->
-
-        <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
+        <div class="entry">
+            {{ post.excerpt }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
     {% endfor %}
 </div>
