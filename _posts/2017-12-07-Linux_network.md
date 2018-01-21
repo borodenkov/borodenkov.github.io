@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Jmeter, лучшие практики
-date: '2017-10-20 18:00:00'
-tags:
+title: Настройка сети linux
+date: '2018-01-21 18:00:00'tags:
 - linux
 - network
 ---
@@ -22,3 +21,10 @@ $ sudo ifconfig eth0 down
 $ sudo ifconfig eth0 up
 
 ethtool eth0
+
+
+#настройка сети
+ifconfig up
+ethtool <iface>
+ifconfig <iface> dhcp
+exampel /etc/network/interface

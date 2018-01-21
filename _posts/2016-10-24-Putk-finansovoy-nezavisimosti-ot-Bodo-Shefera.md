@@ -10,6 +10,7 @@ tags:
 - virtualizatsiia
 - avtomatizatsiia
 - ustanovka_sierviera
+- конспект
 ---
 Ниже представлен мой конспект на конспект:
 [часть 1](https://habrahabr.ru/company/liteorder/blog/284006/)
