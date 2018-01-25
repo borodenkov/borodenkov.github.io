@@ -7,7 +7,7 @@ tags:
 - venv
 ---
 
-#VirtualEnv
+# VirtualEnv
 
 ```code
 $ python -m venv .venv
@@ -17,7 +17,7 @@ $ . .venv/bin/activate
 ```
 
 
-#Intro to pip-tools
+# Intro to pip-tools
 ```code
 $ [sudo] pip install pip-tools
 $ echo django >> requirements.in
